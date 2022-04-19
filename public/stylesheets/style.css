@@ -63,3 +63,21 @@ h2 {
 
 
 }
+#gallery-container {
+ display: flex;
+}
+#gallery1 {
+    background-image: url("/public/stylesheets/images/clooneypic1.jpeg");
+}
+#gallery2 {
+    background-image: url("./images/clooneypic2.jpeg");
+}
+
+#gallery3 {
+    background-image: url("./images/clooney3.jpeg");
+}
+
+#gallery4 {
+    background-image: url("./images/clooney5.jpeg");
+}
+
